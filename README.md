@@ -2,7 +2,7 @@
 
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/paper-available-orange.svg)](docs/SI___paper_trab_final.pdf)
+[![Paper](https://img.shields.io/badge/paper-available-orange.svg)](SI___paper_trab_final.pdf)
 
 > **Solução inteligente para planejamento de rotas turísticas usando algoritmos de otimização combinatória**
 
