@@ -16,8 +16,6 @@ Este projeto implementa e compara duas abordagens para resolver o **Orienteering
 - [Problema](#-problema)
 - [Algoritmos](#-algoritmos)
 - [Resultados](#-resultados)
-- [Instalação](#-instalação)
-- [Como Usar](#-como-usar)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Referências](#-referências)
 - [Autores](#-autores)
